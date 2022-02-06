@@ -1,0 +1,5 @@
+1. responsive web design adalah cara me_layout agar halaman bisa tampil di semua device
+2. em, rem, vw, vh, vmin, vmax, %
+3. breakpoint adalah ukuran viewport yang kita set && media screen and (min-width: 400) and (max-width: 800)
+4. menggunakan flexbox
+5. menggunakan grid
